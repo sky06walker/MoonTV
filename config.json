@@ -84,6 +84,38 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "tiankong": {
+      "api": "https://api.tiankongapi.com/api.php/provide/vod",
+      "name": "天空资源"
+    },
+    "shandian": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
+    },
+    "uku": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "name": "U酷资源"
+    },
+    "kuaiche": {
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod",
+      "name": "快车资源"
+    },
+    "piaohua": {
+      "api": "https://www.piaohuaapi.com/api.php/provide/vod",
+      "name": "飘花资源"
+    },
+    "siquan": {
+      "api": "https://siquan.net/api.php/provide/vod",
+      "name": "四圈资源"
+    },
+    "kuaiyun": {
+      "api": "https://www.kuaiyunzy.com/api.php/provide/vod",
+      "name": "快云资源"
+    },
+    "yinghuadm": {
+      "api": "https://yhdm.one/inc/api.php",
+      "name": "樱花动漫"
     }
   }
 }
