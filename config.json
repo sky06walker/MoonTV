@@ -117,5 +117,12 @@
       "api": "https://yhdm.one/inc/api.php",
       "name": "樱花动漫"
     }
-  }
+  },
+  "custom_category": [
+    {
+      "name": "港剧",
+      "type": "drama",
+      "query": "港剧"
+    }
+  ]
 }
