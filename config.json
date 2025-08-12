@@ -121,8 +121,13 @@
   "custom_category": [
     {
       "name": "港剧",
-      "type": "drama",
+      "type": "tv",
       "query": "港剧"
+    },
+    {
+      "name": "粤语",
+      "type": "movie",
+      "query": "粤语"
     }
   ]
 }
